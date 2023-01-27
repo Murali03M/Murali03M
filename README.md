@@ -12,7 +12,9 @@
 - 📫 How to reach me: **murali732000@gmail.com**
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Murali03M&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Murali03M"/></a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murali03m&show_icons=true&locale=en&layout=compact" alt="murali03m" /></p>
