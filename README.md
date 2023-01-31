@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working as a **Associate Software Engineer at Accenture**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **java**
 
-- 💬 Ask me about **react , java**
+- 💬 Ask me about **react 
 
 - 📫 How to reach me: **murali732000@gmail.com**
 
