@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Associate Software Engineer at Accenture**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about anything, I'm ready to help always !  
 
