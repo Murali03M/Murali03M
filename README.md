@@ -19,17 +19,13 @@ preview
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murali03m" alt="murali03m" /></a> </p>
 
-- 🔭 I’m currently working as a **Associate Software Engineer at Accenture**
-
-- 🌱 I’m currently learning **Next js**
-
-- 💬 Ask me about **react , java**
+- 🌱 I’m currently learning **Node js**
 
 - 📫 How to reach me **murali732000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/murali murugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murali murugan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muralimurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Murali Murugan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/murali03m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murali03m" height="30" width="40" /></a>
 </p>
 
