@@ -16,4 +16,4 @@
 
 <p><img align="center" background="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=murali03m&show_icons=true&locale=en&layout=compact" alt="murali03m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murali03m&" alt="murali03m" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murali03m& theme-dark" alt="murali03m" /></p>
