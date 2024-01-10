@@ -15,5 +15,5 @@
 
 <p><img align="center" background="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=murali03m&show_icons=true&locale=en&layout=compact&theme=dark" alt="murali03m" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Murali03M&theme=dark" alt="GitHub Streak" /></a></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=murali03m&theme=dark" alt="GitHub Streak" /></a></p>
 
