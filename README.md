@@ -15,5 +15,5 @@
 
 <p><img align="center" background="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=murali03m&show_icons=true&locale=en&layout=compact&theme=dark" alt="murali03m" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=Murali03M&theme=dark" alt="murali03m" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Murali03M" alt="murali03m" /></p>
 
